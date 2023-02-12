@@ -1,4 +1,4 @@
-package com.dgn.account.model
+package com.dgn.banking.model
 
 
 import jakarta.persistence.*

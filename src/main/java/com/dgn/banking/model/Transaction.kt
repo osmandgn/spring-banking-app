@@ -1,4 +1,4 @@
-package com.dgn.account.model
+package com.dgn.banking.model
 
 import org.hibernate.annotations.GenericGenerator
 import java.math.BigDecimal
